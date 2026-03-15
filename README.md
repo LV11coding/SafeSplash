@@ -30,3 +30,4 @@ A robot that follow flame/fire and extinguishes them using water. It detects the
 3. in4 - 9
 # Versions
 1. Version 1.0 - Works with the motors and One IR flame sensor. Doesn't use the water pump. If a flame is detected the motors spin forward.
+Need to add code for stopping at wall and code for the water pump.
